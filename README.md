@@ -1,3 +1,10 @@
+fastApi backend to query data from twitter and google trends
+
+It needs an .env file on this folder with twitter settings
+https://python-twitter.readthedocs.io/en/latest/getting_started.html
+
+
+
 ### running locally ###
 git clone https://github.com/dgranuzzo/twitter-google-trends-bk
 cd twitter-google-trends-bk
