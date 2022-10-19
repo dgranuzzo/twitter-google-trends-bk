@@ -2,5 +2,7 @@
 
 commands.me
 
-__pycahce__
+__pycahce__/
+*.pyc
+
 
