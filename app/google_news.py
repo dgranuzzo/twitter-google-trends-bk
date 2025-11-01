@@ -26,7 +26,7 @@ def get_google_news(search_text, language='pt'):
 #g_news=g_news.get__links()
 
 if __name__=='__main__':
-    news="Flamengo"
+    news="Copa Libertadores"
     r = get_google_news(news)
     print(r)
     print(type(r))
